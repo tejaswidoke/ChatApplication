@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602665611113",
+    "project_id": "chatapplication-c0cd6",
+    "storage_bucket": "chatapplication-c0cd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602665611113:android:10a8c5d64094c6e1a197f8",
+        "android_client_info": {
+          "package_name": "com.tejaswi.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsvdF3RvKJ8uSILwiA5a26EduO54X4h3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
